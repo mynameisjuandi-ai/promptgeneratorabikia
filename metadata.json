@@ -1,6 +1,6 @@
 {
-  "name": "Reels Prompt Generator",
-  "description": "Creative tool for generating optimized image and video prompts for Instagram Reels, featuring character styling, cinematography controls, and scene-by-scene sequencing.",
+  "name": "PromptMaster AI",
+  "description": "AI-powered prompt generator and image creator. Transform your reference photos into detailed art prompts and new illustrations with custom characters and styles.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
